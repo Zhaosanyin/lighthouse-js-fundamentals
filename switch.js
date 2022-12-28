@@ -12,3 +12,5 @@ switch (tie) {
 
 };
 console.log(output);
+
+// output += 的使用方法。
