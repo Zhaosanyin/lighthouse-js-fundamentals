@@ -1,0 +1,13 @@
+
+var foot =37;
+switch (foot) {
+  case 36:
+    console.log("this is your 36 size");
+    break;
+  case 37:
+    console.log("this is your 37 size");
+    //break;
+  case 38:
+    console.log("this is your 38 size");    
+    //break;
+}
