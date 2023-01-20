@@ -8,6 +8,5 @@ for(i = 100; i <= 200; i ++) {
     console.log ( "LoopyLighthouse" );
   } else {console.log (i);
   }
-  
 }
   
