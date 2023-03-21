@@ -11,7 +11,10 @@ switch (foot) {
     console.log("this is your 38 size");    
     //break;
 }
-*/
+*/  
+
+// practice 2nd time
+
 var foot = 37;
 switch (foot){
   case 36:
